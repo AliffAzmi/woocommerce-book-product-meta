@@ -23,5 +23,8 @@ Woocommerce Book Product Meta. This plugin help to add extra info in single prod
 
 == Screenshots ==
 
-![Admin Panel](https://github.com/AliffAzmi/woocommerce-book-product-meta/blob/main/Admin%20Panel.png?raw=true)
+Admin Panel
+![Admin Panel](https://user-images.githubusercontent.com/46412369/113088840-045d6780-9219-11eb-996e-2b66df467639.png)
+
+FrontEnd View
 ![FrontEnd View](https://github.com/AliffAzmi/woocommerce-book-product-meta/blob/main/FrontEnd.png?raw=true)
