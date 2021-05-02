@@ -27,4 +27,4 @@ Admin Panel
 ![Admin Panel](https://user-images.githubusercontent.com/46412369/113088840-045d6780-9219-11eb-996e-2b66df467639.png)
 
 FrontEnd View
-![FrontEnd View](https://user-images.githubusercontent.com/46412369/113088840-045d6780-9219-11eb-996e-2b66df467639.png)
+![FrontEnd View](https://user-images.githubusercontent.com/46412369/116802109-e4d09c00-ab42-11eb-9f30-9d916e30d8ae.png)
